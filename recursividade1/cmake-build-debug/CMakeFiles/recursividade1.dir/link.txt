@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/recursividade1.dir/main.c.o  -o recursividade1 
