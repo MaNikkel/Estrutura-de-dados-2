@@ -1,6 +1,6 @@
-#Estrutura-de-dados-2
+# Estrutura-de-dados-2
 
-##Disciplina ministrada pelo professor Saulo.
+## Disciplina ministrada pelo professor Saulo.
 
 Até agora contém:
 	* revisão sobre ponteiros
