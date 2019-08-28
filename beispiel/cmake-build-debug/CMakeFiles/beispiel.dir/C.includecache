@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/beispiel/main.c
+stdio.h
+-
+stdlib.h
+-
+

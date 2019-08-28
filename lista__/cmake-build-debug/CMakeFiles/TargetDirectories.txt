@@ -1,0 +1,3 @@
+/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/lista__/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/lista__/cmake-build-debug/CMakeFiles/lista__.dir
+/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/lista__/cmake-build-debug/CMakeFiles/edit_cache.dir
