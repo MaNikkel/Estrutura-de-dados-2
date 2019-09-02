@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/beispiel/main.c" "/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/beispiel/cmake-build-debug/CMakeFiles/beispiel.dir/main.c.o"
+  "/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/exemplo_sala/main.c" "/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/exemplo_sala/cmake-build-debug/CMakeFiles/beispiel.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

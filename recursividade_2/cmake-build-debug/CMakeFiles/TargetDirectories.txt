@@ -1,0 +1,3 @@
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/recursividade_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/recursividade_2/cmake-build-debug/CMakeFiles/recursividade_2.dir
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/recursividade_2/cmake-build-debug/CMakeFiles/edit_cache.dir
