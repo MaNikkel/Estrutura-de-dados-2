@@ -1,0 +1,3 @@
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/exercicios_P0/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/exercicios_P0/ex1/cmake-build-debug/CMakeFiles/ex1.dir
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/exercicios_P0/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir

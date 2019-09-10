@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/exercicios_P0/ex5/main.c
+stdio.h
+-
+stdlib.h
+-
+

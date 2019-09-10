@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lista_executavel.dir/main.c.o  -o lista_executavel 

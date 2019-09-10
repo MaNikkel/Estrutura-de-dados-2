@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define SIZE 1000
+#define SIZE 5
 
 int search(int elem, int first, int last, int *array){
     if(first > last){
@@ -23,7 +23,7 @@ int search2(int elem, int first, int last, int *array){
     }
 
     int middle = (first+last)/2;
-
+    printf("middle: %d\n", middle);
     if(*(array+middle) == elem){
         printf("\n----------------\nindex = %d", middle);
         return middle;
