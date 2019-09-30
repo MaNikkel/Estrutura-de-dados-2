@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TAM 3
+#define TAM 10
 
 int busca1(int ini, int fim, int menor, int *v){
     if(fim < ini){
@@ -26,8 +26,9 @@ int busca2(int ini, int fim, int menor, int *v){
     if(*(v+meio) < menor){
         menor = *(v+meio);
     }
-
+    //verifica primeira metade do vetor
     int men = busca2(ini, meio-1, menor, v);
+    //verifica segunda metade do vetor
     return busca2(meio+1, fim, men, v);
 }
 

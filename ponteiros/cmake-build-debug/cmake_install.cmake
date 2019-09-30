@@ -1,4 +1,4 @@
-# Install script for directory: /home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/ponteiros
+# Install script for directory: /home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/ponteiros
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mathiasnikkel/UTFPR/2019-2/estrutura de dados 2/códigos em C/ponteiros/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mathiasnikkel/Dokumente/git-repos/Estrutura-de-dados-2/ponteiros/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

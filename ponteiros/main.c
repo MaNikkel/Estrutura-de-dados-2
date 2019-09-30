@@ -13,10 +13,19 @@ void alter(int *p1, int *p2){
 
 int main() {
     int a, b;
-    a = rand();
-    b = rand();
+    a = 2;
+    b = 1;
 
-    printf("a = %d", a);
+    int *pa = NULL;
+
+    pa = &a;
+
+    printf("&pa = %d\n", &pa);
+    printf("&a = %d\n", &a);
+    printf("pa = %d\n", pa);
+    printf("*pa = %d\n", *pa);
+
+    /*printf("a = %d", a);
     printf("\n");
     printf("b = %d", b);
     printf("\n");
@@ -26,6 +35,6 @@ int main() {
     printf("a = %d", a);
     printf("\n");
     printf("b = %d", b);
-    printf("\n");
+    printf("\n");*/
     return 0;
 }
